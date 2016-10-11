@@ -1,0 +1,62 @@
+h2{
+  color:#0cc10c;
+  font-family: "Courier New", Courier, monospace;
+}
+html,body{
+  //background-color: rgba(187,221,255,0.1)
+}
+#container,#container2,#container3,#container4,#container5{
+  text-align:center;
+}
+#container5{
+  margin: 6px;
+}
+.username,.password{
+  font-size:20px;
+  display:inline-block;
+  width:110px;
+}
+.progress-bar{
+/*background-color: #3e8632*/
+}
+
+.error{
+  color:red;
+}
+.reveal{
+  line-height:20px;
+}
+.checkbox{
+  height:10px;
+  display:inline !important;
+  margin:5px !important;
+  top:2px;
+}
+#wrapper{
+  background-color: rgba(187,221,255,0.1);
+  text-align:center;
+  border:5px Chartreuse  solid;
+  width:350px;
+  height:235px;
+  border-radius:8px;
+  padding-left:10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-top: 0px;
+}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.progress-bar{
+  margin-left:30%;
+}
