@@ -1,0 +1,47 @@
+#container,#container2,#container3,#container4,#container5{
+  text-align:center;
+}
+#container5{
+  margin: 6px;
+}
+.username,.password{
+  font-size:20px;
+  display:inline-block;
+  width:110px;
+}
+
+.error{
+  color:red;
+}
+.reveal{
+  line-height:20px;
+}
+.checkbox{
+  height:10px;
+  display:inline !important;
+  margin:5px !important;
+  top:2px;
+}
+#wrapper{
+  text-align:center;
+  border:2px black solid;
+  width:350px;
+  height:225px;
+  border-radius:5px;
+}
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.progress-bar{
+  margin-left:30%;
+}
